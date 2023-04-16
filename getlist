@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Áo 1",
+    "image": "hinh1.png",
+    "cate": "hoodie",
+    "price": "1000000"
+  },
+  {
+    "id": 2,
+    "name": "Áo 2",
+    "image": "hinh2.png",
+    "cate": "hoodie",
+    "price": "2000000"
+  },
+  {
+    "id": 3,
+    "name": "Áo 3",
+    "image": "hinh3.png",
+    "cate": "hoodie",
+    "price": "3000000"
+  },
+  {
+    "id": 4,
+    "name": "Áo 4",
+    "image": "hinh4.png",
+    "cate": "hoodie",
+    "price": "400000"
+  },
+  {
+    "id": 5,
+    "name": "Áo 5",
+    "image": "hinh5.png",
+    "cate": "hoodie",
+    "price": "5000000"
+  }
+]
